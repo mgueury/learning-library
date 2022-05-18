@@ -17,11 +17,7 @@
             "filename": "../../../visual-builder/standalone/create-pub-webapp/spin-up-vb/spin-up-vb.md"
         },
         {
-            "title": "Lab 2: Add a Friends or Enemies table",
-            "filename": "../../friend-table/friend-table.md"
-        },
-        {
-            "title": "Lab 3: Scan QR-code with GreenPoints",
+            "title": "Lab 2: Scan QR-code with GreenPoints",
             "filename": "../../qr-code/qr-code.md"
         },
         {
